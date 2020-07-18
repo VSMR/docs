@@ -3,10 +3,12 @@ Status : ![](https://img.shields.io/badge/Version-2.10-green)![](https://img.shi
 
 VSMR is voice chat project for binaural collaboration on the Internet / VSMRはインターネットでバイノーラル音声を やりとりすることのできるボイスチャットサービスです
 
-🎈**Version 2.10 is released!!**🎈
+🎈 **Version 2.10 is released!!** 🎈
 
 WebSite ➡ [https://vsmr.ga](https://vsmr.ga/)
 
+#### Infomation  
+###### VSMR証明書期限更新しました次回更新日：2020年10月16日
 
 
 ## What is VSMR?
