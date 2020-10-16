@@ -8,7 +8,7 @@ VSMR is voice chat project for binaural collaboration on the Internet / VSMRは�
 WebSite ➡ [https://vsmr.ga](https://vsmr.ga/)
 
 #### Infomation  
-###### VSMR証明書期限更新しました次回更新日：2020年10月16日
+###### VSMR証明書期限更新しました次回更新日：2021年1月15日
 
 
 ## What is VSMR?
