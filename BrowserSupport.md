@@ -12,22 +12,22 @@ VSMRは最大で左右2チャンネル・Opus Codec・500kbpsで音声のやり�
 
 ## ブラウザ対応表
 
-| 送信側                 | 受信側                 | 音                                                           |
-| ---------------------- | ---------------------- | ------------------------------------------------------------ |
-| [Win]Chrome            | [Win]Chrome            | ◎ / Stereo Opus 480～500kbps                                 |
-| [Win]Chrome            | [Win]Firefox           | ◎ / Stereo Opus 480～500kbps                                 |
-| [Win]Firefox           | [Win]Chrome            | ×(通信エラー) / ERROR PeerJS:  Error: (InvalidModificationError) Changing the media-type of m-sections is not allowed |
-| [Win]Chrome            | [MacOS Catalina]Safari | △ / Mono Opus 54～60kbps(webrtcのByteSendの値を目視)         |
-| [Mac]Chrome            | [Win]Chrome            | △ / Mono Opus 54～60kbps(webrtcのByteSendの値を目視)         |
-| [Win]Chrome            | [MacOS Catalina]Chrome | ◎ / Stereo Opus 500kbps                                      |
-| [Win]Firefox           | [Mac]Safari            | ×(通信エラー) / ERROR PeerJS:  Error: (InvalidModificationError) Changing the media-type of m-sections is not allowed |
-| [Mac]Safari            | [Win]Firefox           | △ / Mono Opus (bit rateは未確認)                             |
-| [iPhone]Safari         | [Win]Chrome            | △ / Mono Opus 54～60kbps(webrtcのByteSendの値を目視)<br />残念ながら手持ちの環境で使えるステレオマイクがなかった |
-| [iPhone]Chrome         |                        | × / そもそも getUserMedia();に非対応                         |
-| [iPhone]Firefox        |                        | × / そもそもgetUserMedia();に非対応                          |
-| [iPhone]DolphinBrowser |                        | × / そもそもgetUserMedia();に非対応                          |
-| [iPhone]Smooz          |                        | × / そもそもgetUserMedia();に非対応                          |
-| [Win]Chrome            | [Android]Chrome        | ◎ / Stereo Opus 500kbps (やや遅いような気がする)             |
+| 送信側                  | 受信側                 | 音                                                           |
+| ----------------------- | ---------------------- | ------------------------------------------------------------ |
+| [Win]Chrome             | [Win]Chrome            | ◎ / Stereo Opus 480～500kbps                                 |
+| [Win]Chrome             | [Win]Firefox           | ◎ / Stereo Opus 480～500kbps                                 |
+| [Win]Firefox            | [Win]Chrome            | ×(通信エラー) / ERROR PeerJS:  Error: (InvalidModificationError) Changing the media-type of m-sections is not allowed |
+| [Win]Chrome             | [MacOS Catalina]Safari | △ / Mono Opus 54～60kbps(webrtcのByteSendの値を目視)         |
+| [Mac]Chrome             | [Win]Chrome            | △ / Mono Opus 54～60kbps(webrtcのByteSendの値を目視)         |
+| [Win]Chrome             | [MacOS Catalina]Chrome | ◎ / Stereo Opus 500kbps                                      |
+| [Win]Firefox            | [Mac]Safari            | ×(通信エラー) / ERROR PeerJS:  Error: (InvalidModificationError) Changing the media-type of m-sections is not allowed |
+| [Mac]Safari             | [Win]Firefox           | △ / Mono Opus (bit rateは未確認)                             |
+| [iPhone]Safari          | [Win]Chrome            | △ / Mono Opus 54～60kbps(webrtcのByteSendの値を目視)<br />残念ながら手持ちの環境で使えるステレオマイクがなかった |
+| [iPhone]Chrome          |                        | × / getUserMedia();に非対応                                  |
+| [iPhone]Firefox         |                        | × / getUserMedia();に非対応                                  |
+| [iPhone]DolphinBrowser  |                        | × / getUserMedia();に非対応                                  |
+| [iPhone]Smooz(公開停止) |                        | × / getUserMedia();に非対応                                  |
+| [Win]Chrome             | [Android]Chrome        | ◎ / Stereo Opus 500kbps (やや遅いような気がする)             |
 
 
 
