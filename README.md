@@ -89,7 +89,7 @@ GPL-v3.0 License
 
 その他：メール・Twitterにお願いします
 
-感想：Twitterに[#VSMR](https://twitter.com/search?q=%23VSMR) をつけてツイート
+感想：Twitterに[#VSMR](https://twitter.com/search?q=%23VSMR) をつけてツイートしてくださると嬉しいです
 
 
 
