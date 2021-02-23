@@ -29,7 +29,9 @@ VSMRはインターネット上でバイノーラル音声をやり取りする�
 
 ### v4までに実装(2021年度内)
 
-* Speech To Text対応
+* Speech To Text対応(実装方法検討中)
+  * Juliusによる実装
+  * ChromeのSpeech Recognition APIによる実装
 * 通話時の音声ビットレート変更
 
 
