@@ -1,6 +1,7 @@
 # VSMR | Virtual ASMR
-v2 : ![](https://img.shields.io/badge/Version-2.13-green)![](https://img.shields.io/badge/Build-Pausing-orange)
-v3：![](https://img.shields.io/badge/Version-3.2.4-green)![](https://img.shields.io/badge/Dev-passing-blue)
+v2 : ![](https://img.shields.io/badge/Version-2.13-green)![](https://img.shields.io/badge/Build-Stopped-red)
+v3：![](https://img.shields.io/badge/Version-3.2.4-green)![](https://img.shields.io/badge/Build-Canceled-red)
+v4：![](https://img.shields.io/badge/Version-4.0.1-green)![](https://img.shields.io/badge/Dev-Passing-green)
 
 ## お知らせ (VSMR will come back again.)
 
