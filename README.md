@@ -43,7 +43,7 @@ VSMRはインターネット上でASMRコラボを実現するボイスチャッ
 
 ## License
 
-[GPLv3.0 License](LICENSE)の元に提供されています
+[GPLv3.0](LICENSE)の元に提供されています
 
 
 
@@ -59,4 +59,4 @@ VSMRはインターネット上でASMRコラボを実現するボイスチャッ
 
 ---
 
-**VSMR Project  2020-2021 / GPL v3 License** 
+**VSMR Project  2020-2021 / GPL-v3** 
