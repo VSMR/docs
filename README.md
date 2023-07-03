@@ -18,7 +18,7 @@ v4：![](https://img.shields.io/badge/Version-4.0.1-green)![](https://img.shield
 **VSMR is voice chat project for binaural collaboration on the Internet**
 **VSMRはインターネットでバイノーラル音声を やりとりすることのできるボイスチャットサービスです**
 
-🎈 **Version 2.13 is released!!** 🎈 [https://vsmr.ga](https://vsmr.ga/)
+🎈 **Version 2.13 is released!!** 🎈 [https://vsmr.gq](https://vsmr.gq/)
 
 🌟New Instance🌟 [https://vsmr.gq](https://vsmr.gq)
 
