@@ -7,7 +7,7 @@ v4：![](https://img.shields.io/badge/Version-4.0.1-green)![](https://img.shield
 
 #### 現在VSMR新バージョンの開発中です
 
-#### 現在公開されているVSMRは2.13を最終版とし、以降はアップデートが提供されなくなります。新バージョンがリリースされるまで現在のVSMRの公開は続けます。[https://open.vsmr.gq](https://open.vsmr.gq) でVSMRを使うことができます
+#### 現在公開されているVSMRは2.13を最終版とし、以降はアップデートが提供されなくなります。新バージョンがリリースされるまで現在のVSMRの公開は続けます。[https://vsmr.gq](https://vsmr.gq) でVSMRを使うことができます
 
 #### VSMRの2.13を最終版としたため、一時的にVSMRベータ版の募集を締め切ります。再開時にはまたお知らせします
 
