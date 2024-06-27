@@ -1,3 +1,5 @@
+[README-ENGLISH](/README-EN.md)
+
 # VSMR | Virtual ASMR
 v2 : ![](https://img.shields.io/badge/Version-2.13-green)![](https://img.shields.io/badge/Build-Stopped-red)
 v3：![](https://img.shields.io/badge/Version-3.2.4-green)![](https://img.shields.io/badge/Build-Canceled-red)

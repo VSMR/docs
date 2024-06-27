@@ -1,3 +1,4 @@
+[FAQ-ENGLISH-Readme](/FAQ-EN.md)
 # よくある質問
 
 

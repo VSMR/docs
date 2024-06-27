@@ -1,3 +1,4 @@
+[HowToUse-English-Readme.md](/HowToUse-EN.md)
 # 使い方
 
 

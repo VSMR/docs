@@ -1,3 +1,4 @@
+[BrowserSupport-English-Readme](/BrowserSupport-EN.md)
 # ブラウザのサポート状況・音質について
 
 VSMRは最大で左右2チャンネル・Opus Codec・500kbpsで音声のやり取りが可能です。
